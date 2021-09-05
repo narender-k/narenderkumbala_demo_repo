@@ -1,0 +1,20 @@
+ls
+touch
+git init
+git status
+gid add.
+git add*
+git add -A
+git commit -m " msg"
+git remote add origin
+git push -u origin
+
+**************************
+Error1
+
+$ git add New Text Document
+fatal: not a git repository (or any of the parent directories): .git
+
+ Solution  
+
+Command:   git init
